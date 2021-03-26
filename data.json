@@ -1,0 +1,2462 @@
+{
+    "1": {
+        "title": "Rang de Code",
+        "desc": "url: https://www.codechef.com/RDEC2021",
+        "location": "codechef.com",
+        "time": {
+            "start": "March 26, 2021 10:30:00",
+            "end": "March 26, 2021 12:45:00",
+            "zone": "-00:00"
+        }
+    },
+    "2": {
+        "title": "DSA Learning Series",
+        "desc": "url: https://www.codechef.com/LEARNDSA",
+        "location": "codechef.com",
+        "time": {
+            "start": "March 29, 2020 18:30:00",
+            "end": "March 29, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "3": {
+        "title": "IARCS OPC Judge Problems",
+        "desc": "url: https://www.codechef.com/IARCSJUD",
+        "location": "codechef.com",
+        "time": {
+            "start": "October 08, 2019 18:30:00",
+            "end": "October 07, 2021 21:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "4": {
+        "title": "\u0422\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0438 \u043f\u0435\u0440\u0435\u0434 \u0437\u0430\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u044d\u0442\u0430\u043f\u043e\u043c BelOI 2021. \u0414\u0435\u043d\u044c 25, \u0444\u0435\u0432\u0440\u0430\u043b\u044c-\u043c\u0430\u0440\u0442 2021",
+        "desc": "url: https://official.contest.yandex.ru/CYF/contest/26230/enter/",
+        "location": "contest.yandex.ru/CYF",
+        "time": {
+            "start": "March 26, 2021 08:00:00",
+            "end": "March 26, 2021 13:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "5": {
+        "title": "Warwick ICPC training 25 March 2021",
+        "desc": "url: https://www.spoj.com/UW250321/",
+        "location": "spoj.com",
+        "time": {
+            "start": "March 25, 2021 19:00:00",
+            "end": "March 26, 2021 19:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "6": {
+        "title": "TESTBRP",
+        "desc": "url: https://www.spoj.com/TESTBRP/",
+        "location": "spoj.com",
+        "time": {
+            "start": "March 05, 2021 00:03:52",
+            "end": "August 05, 2021 00:03:52",
+            "zone": "-00:00"
+        }
+    },
+    "7": {
+        "title": "CIS CS Club Weekly Problems",
+        "desc": "url: https://www.spoj.com/ASCXD/",
+        "location": "spoj.com",
+        "time": {
+            "start": "January 01, 2020 00:00:00",
+            "end": "December 12, 2021 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "8": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0447\u043b\u0430\u043b",
+        "desc": "url: http://www.spoj.com/MJEED/",
+        "location": "spoj.com",
+        "time": {
+            "start": "January 01, 2005 00:00:00",
+            "end": "January 01, 2022 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "9": {
+        "title": "EGG Club Contest",
+        "desc": "url: https://www.spoj.com/EGGCT/",
+        "location": "spoj.com",
+        "time": {
+            "start": "January 01, 2005 00:00:00",
+            "end": "January 01, 2022 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "10": {
+        "title": "GRUPA P",
+        "desc": "url: https://www.spoj.com/GRUPAP/",
+        "location": "spoj.com",
+        "time": {
+            "start": "January 01, 2005 00:00:00",
+            "end": "January 01, 2022 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "11": {
+        "title": "March Circuits '21",
+        "desc": "url: https://www.hackerearth.com/challenges/competitive/march-circuits-21/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 20, 2021 16:00:00",
+            "end": "March 27, 2021 16:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "12": {
+        "title": "ThoughtWorks Data Engineer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/Thoughtworks-data-engineer-hiring-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 19, 2021 12:30:00",
+            "end": "March 28, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "13": {
+        "title": "Zensar Angular/React Developer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/zensar-angularreact-developer-hiring-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 19, 2021 12:30:00",
+            "end": "March 28, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "14": {
+        "title": "Zensar Senior Java Developer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/zensar-senior-java-developer-hiring-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 19, 2021 12:30:00",
+            "end": "March 28, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "15": {
+        "title": "Zensar Java Developer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/zensar-java-developer-hiring-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 19, 2021 12:30:00",
+            "end": "March 28, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "16": {
+        "title": "Software Development Engineer Hiring Challenge for Women-in-Tech",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/aws-software-developer-hiring-challenge-2021/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 19, 2021 12:30:00",
+            "end": "March 28, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "17": {
+        "title": "20/20 Vision Hack. Project Building Phase. Online",
+        "desc": "url: https://2020visionhack.hackerearth.com/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "February 05, 2021 11:00:00",
+            "end": "April 01, 2021 01:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "18": {
+        "title": "20/20 Vision Hack",
+        "desc": "url: https://2020visionhack.hackerearth.com/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "February 05, 2021 17:00:00",
+            "end": "April 01, 2021 06:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "19": {
+        "title": "(Campus) CTRL + HACK + DEL INEQUALITY (E-Schools track)",
+        "desc": "url: https://ctrl-hack-del-inequality-campus.hackerearth.com/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 08, 2021 03:30:00",
+            "end": "April 01, 2021 12:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "20": {
+        "title": "HackerEarth Machine Learning Challenge: How NOT to lose a customer in 10 days",
+        "desc": "url: https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-customer-churn/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 16, 2021 14:00:00",
+            "end": "April 15, 2021 14:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "21": {
+        "title": "AGEING BETTER WITH ICTs",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/ageing-better-with-icts/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 15, 2021 09:00:00",
+            "end": "April 15, 2021 21:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "22": {
+        "title": "Code with SAP Labs India - Discover, Design, Deliver",
+        "desc": "url: https://sap-code.hackerearth.com/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 16, 2021 03:30:00",
+            "end": "April 18, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "23": {
+        "title": "The Doge 2021",
+        "desc": "url: https://app.codility.com/programmers/challenges/doge2021/",
+        "location": "codility.com",
+        "time": {
+            "start": "February 27, 2021 17:00:00",
+            "end": "March 27, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "24": {
+        "title": "Code Jam Registration Open",
+        "desc": "url: https://codingcompetitions.withgoogle.com/",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "February 16, 2021 19:00:00",
+            "end": "March 28, 2021 02:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "25": {
+        "title": "Topcoder Copilot Evolution - Scoring Model for Token Based System",
+        "desc": "url: https://topcoder.com/challenges/30175040",
+        "location": "topcoder.com",
+        "time": {
+            "start": "March 23, 2021 08:14:37",
+            "end": "March 28, 2021 08:35:00",
+            "zone": "-00:00"
+        }
+    },
+    "26": {
+        "title": "Reclamation: Streamflow Forecast Rodeo Challenge Series - March",
+        "desc": "url: https://topcoder.com/challenges/30169394",
+        "location": "topcoder.com",
+        "time": {
+            "start": "February 22, 2021 17:03:52",
+            "end": "March 31, 2021 16:05:00",
+            "zone": "-00:00"
+        }
+    },
+    "27": {
+        "title": "Marathon Match 125",
+        "desc": "url: https://topcoder.com/challenges/30175218",
+        "location": "topcoder.com",
+        "time": {
+            "start": "March 23, 2021 12:15:37",
+            "end": "March 31, 2021 17:15:37",
+            "zone": "-00:00"
+        }
+    },
+    "28": {
+        "title": "Graph-Attention Augmented Temporal Neural Network Build for Diagnosis",
+        "desc": "url: https://topcoder.com/challenges/30171941",
+        "location": "topcoder.com",
+        "time": {
+            "start": "March 06, 2021 16:05:28",
+            "end": "April 03, 2021 16:13:00",
+            "zone": "-00:00"
+        }
+    },
+    "29": {
+        "title": "Reclamation: Streamflow Forecast Rodeo Challenge Series - April",
+        "desc": "url: https://topcoder.com/challenges/30175348",
+        "location": "topcoder.com",
+        "time": {
+            "start": "March 24, 2021 16:03:24",
+            "end": "April 30, 2021 16:04:00",
+            "zone": "-00:00"
+        }
+    },
+    "30": {
+        "title": "PP2. Week 2: March 8 - 14",
+        "desc": "url: https://www.e-olymp.com/en/contests/20136",
+        "location": "e-olymp.com",
+        "time": {
+            "start": "March 09, 2021 06:00:00",
+            "end": "March 28, 2021 19:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "31": {
+        "title": "2020 USACO February",
+        "desc": "url: https://www.e-olymp.com/en/contests/20309",
+        "location": "e-olymp.com",
+        "time": {
+            "start": "March 17, 2021 13:00:00",
+            "end": "March 30, 2021 19:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "32": {
+        "title": "Ukrainian Olympiad in Informatics, IV Stage, II Round",
+        "desc": "url: https://www.e-olymp.com/en/contests/20354",
+        "location": "e-olymp.com",
+        "time": {
+            "start": "March 21, 2021 15:00:00",
+            "end": "March 31, 2021 20:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "33": {
+        "title": "Ukrainian Olympiad in Informatics, IV Stage, I Round",
+        "desc": "url: https://www.e-olymp.com/en/contests/20353",
+        "location": "e-olymp.com",
+        "time": {
+            "start": "March 21, 2021 15:00:00",
+            "end": "March 31, 2021 20:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "34": {
+        "title": "PP2. Week 3: March 15 - 21",
+        "desc": "url: https://www.e-olymp.com/en/contests/20266",
+        "location": "e-olymp.com",
+        "time": {
+            "start": "March 16, 2021 04:00:00",
+            "end": "April 04, 2021 19:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "35": {
+        "title": "Data structures contest - high level",
+        "desc": "url: https://www.e-olymp.com/en/contests/20091",
+        "location": "e-olymp.com",
+        "time": {
+            "start": "March 05, 2021 05:55:00",
+            "end": "April 05, 2021 09:55:00",
+            "zone": "-00:00"
+        }
+    },
+    "36": {
+        "title": "2019 USACO January",
+        "desc": "url: https://www.e-olymp.com/en/contests/20229",
+        "location": "e-olymp.com",
+        "time": {
+            "start": "March 13, 2021 15:31:00",
+            "end": "April 13, 2021 19:31:00",
+            "zone": "-00:00"
+        }
+    },
+    "37": {
+        "title": "2021 Azerbaijan, Republic Informatics Olympiad, Semifinal, March 8",
+        "desc": "url: https://www.e-olymp.com/en/contests/20348",
+        "location": "e-olymp.com",
+        "time": {
+            "start": "March 20, 2021 12:00:00",
+            "end": "April 20, 2021 19:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "38": {
+        "title": "VinBigData Chest X-ray Abnormalities Detection",
+        "desc": "url: https://kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection",
+        "location": "kaggle.com",
+        "time": {
+            "start": "December 30, 2020 17:23:16",
+            "end": "March 30, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "39": {
+        "title": "Tabular Playground Series - Mar 2021",
+        "desc": "url: https://kaggle.com/c/tabular-playground-series-mar-2021",
+        "location": "kaggle.com",
+        "time": {
+            "start": "March 01, 2021 13:55:00",
+            "end": "March 31, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "40": {
+        "title": "March Machine Learning Mania 2021 - NCAAM - Spread",
+        "desc": "url: https://kaggle.com/c/ncaam-march-mania-2021-spread",
+        "location": "kaggle.com",
+        "time": {
+            "start": "February 25, 2021 21:45:24",
+            "end": "April 06, 2021 15:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "41": {
+        "title": "March Machine Learning Mania 2021 - NCAAM",
+        "desc": "url: https://kaggle.com/c/ncaam-march-mania-2021",
+        "location": "kaggle.com",
+        "time": {
+            "start": "February 25, 2021 21:44:49",
+            "end": "April 06, 2021 15:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "42": {
+        "title": "March Machine Learning Mania 2021 - NCAAW",
+        "desc": "url: https://kaggle.com/c/ncaaw-march-mania-2021",
+        "location": "kaggle.com",
+        "time": {
+            "start": "February 25, 2021 21:45:03",
+            "end": "April 07, 2021 15:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "43": {
+        "title": "March Machine Learning Mania 2021 - NCAAW - Spread",
+        "desc": "url: https://kaggle.com/c/ncaaw-march-mania-2021-spread",
+        "location": "kaggle.com",
+        "time": {
+            "start": "February 25, 2021 21:45:12",
+            "end": "April 07, 2021 15:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "44": {
+        "title": "Shopee - Price Match Guarantee",
+        "desc": "url: https://kaggle.com/c/shopee-product-matching",
+        "location": "kaggle.com",
+        "time": {
+            "start": "March 09, 2021 00:34:45",
+            "end": "May 10, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "45": {
+        "title": "HuBMAP - Hacking the Kidney",
+        "desc": "url: https://kaggle.com/c/hubmap-kidney-segmentation",
+        "location": "kaggle.com",
+        "time": {
+            "start": "November 16, 2020 22:11:08",
+            "end": "May 10, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "46": {
+        "title": "Human Protein Atlas - Single Cell Classification",
+        "desc": "url: https://kaggle.com/c/hpa-single-cell-image-classification",
+        "location": "kaggle.com",
+        "time": {
+            "start": "January 26, 2021 23:56:29",
+            "end": "May 11, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "47": {
+        "title": "Indoor Location & Navigation",
+        "desc": "url: https://kaggle.com/c/indoor-location-navigation",
+        "location": "kaggle.com",
+        "time": {
+            "start": "January 28, 2021 18:25:03",
+            "end": "May 17, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "48": {
+        "title": "Hash Code 2021 - Traffic Signaling",
+        "desc": "url: https://kaggle.com/c/hashcode-2021-oqr-extension",
+        "location": "kaggle.com",
+        "time": {
+            "start": "February 25, 2021 21:04:12",
+            "end": "May 25, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "49": {
+        "title": "Herbarium 2021 - Half-Earth Challenge - FGVC8",
+        "desc": "url: https://kaggle.com/c/herbarium-2021-fgvc8",
+        "location": "kaggle.com",
+        "time": {
+            "start": "March 10, 2021 20:03:29",
+            "end": "May 26, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "50": {
+        "title": "Hotel-ID to Combat Human Trafficking 2021 - FGVC8",
+        "desc": "url: https://kaggle.com/c/hotel-id-2021-fgvc8",
+        "location": "kaggle.com",
+        "time": {
+            "start": "March 10, 2021 22:24:34",
+            "end": "May 26, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "51": {
+        "title": "iWildcam 2021 - FGVC8",
+        "desc": "url: https://kaggle.com/c/iwildcam2021-fgvc8",
+        "location": "kaggle.com",
+        "time": {
+            "start": "March 10, 2021 21:59:36",
+            "end": "May 26, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "52": {
+        "title": "Plant Pathology 2021 - FGVC8",
+        "desc": "url: https://kaggle.com/c/plant-pathology-2021-fgvc8",
+        "location": "kaggle.com",
+        "time": {
+            "start": "March 15, 2021 18:08:38",
+            "end": "May 26, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "53": {
+        "title": "Bristol-Myers Squibb \u2013 Molecular Translation",
+        "desc": "url: https://kaggle.com/c/bms-molecular-translation",
+        "location": "kaggle.com",
+        "time": {
+            "start": "March 02, 2021 18:57:15",
+            "end": "June 02, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "54": {
+        "title": "Coleridge Initiative - Show US the Data",
+        "desc": "url: https://kaggle.com/c/coleridgeinitiative-show-us-the-data",
+        "location": "kaggle.com",
+        "time": {
+            "start": "March 23, 2021 20:01:16",
+            "end": "June 22, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "55": {
+        "title": "Hungry Geese",
+        "desc": "url: https://kaggle.com/c/hungry-geese",
+        "location": "kaggle.com",
+        "time": {
+            "start": "January 26, 2021 01:01:19",
+            "end": "July 26, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "56": {
+        "title": "Jane Street Market Prediction",
+        "desc": "url: https://kaggle.com/c/jane-street-market-prediction",
+        "location": "kaggle.com",
+        "time": {
+            "start": "November 23, 2020 17:15:09",
+            "end": "August 23, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "57": {
+        "title": "yukicoder contest 288",
+        "desc": "url: https://yukicoder.me/contests/309",
+        "location": "yukicoder.me",
+        "time": {
+            "start": "March 26, 2021 12:20:00",
+            "end": "March 26, 2021 14:20:00",
+            "zone": "-00:00"
+        }
+    },
+    "58": {
+        "title": "\u65b0\u5165\u751f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c8 2021\uff08\u663c\u306e\u90e8\uff09",
+        "desc": "url: https://yukicoder.me/contests/317",
+        "location": "yukicoder.me",
+        "time": {
+            "start": "March 31, 2021 05:00:00",
+            "end": "March 31, 2021 07:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "59": {
+        "title": "\u65b0\u5165\u751f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b3\u30f3\u30c6\u30b9\u30c8 2021\uff08\u591c\u306e\u90e8\uff09",
+        "desc": "url: https://yukicoder.me/contests/318",
+        "location": "yukicoder.me",
+        "time": {
+            "start": "March 31, 2021 12:00:00",
+            "end": "March 31, 2021 14:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "60": {
+        "title": "yukicoder April Fool Contest 2021 \uff08\u6642\u9593\u306f\u4eee\uff09",
+        "desc": "url: https://yukicoder.me/contests/315",
+        "location": "yukicoder.me",
+        "time": {
+            "start": "April 01, 2021 12:00:00",
+            "end": "April 01, 2021 14:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "61": {
+        "title": "yukicoder contest",
+        "desc": "url: https://yukicoder.me/contests/312",
+        "location": "yukicoder.me",
+        "time": {
+            "start": "April 02, 2021 12:20:00",
+            "end": "April 02, 2021 14:20:00",
+            "zone": "-00:00"
+        }
+    },
+    "62": {
+        "title": "yukicoder contest \uff08\u554f\u984c\u52df\u96c6\u4e2d\uff09",
+        "desc": "url: https://yukicoder.me/contests/314",
+        "location": "yukicoder.me",
+        "time": {
+            "start": "April 09, 2021 12:20:00",
+            "end": "April 09, 2021 14:20:00",
+            "zone": "-00:00"
+        }
+    },
+    "63": {
+        "title": "yukicoder contest",
+        "desc": "url: https://yukicoder.me/contests/316",
+        "location": "yukicoder.me",
+        "time": {
+            "start": "April 16, 2021 12:20:00",
+            "end": "April 16, 2021 15:20:00",
+            "zone": "-00:00"
+        }
+    },
+    "64": {
+        "title": "igniotron Full Stack Developer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/digitate-igniotron-full-stack-hiring-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 26, 2021 12:30:00",
+            "end": "April 04, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "65": {
+        "title": "igniotron UI Developer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/digitate-igniotron-ui-developer-hiring-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 26, 2021 12:30:00",
+            "end": "April 04, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "66": {
+        "title": "Rebel Foods Backend Challenge 2021",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/rebel-foods-backend-challenge-2021/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "March 29, 2021 12:30:00",
+            "end": "April 04, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "67": {
+        "title": "Juspay Developer Hiring challenge April 2021",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/juspay-developer-hiring-challenge-april-2021/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 02, 2021 05:30:00",
+            "end": "April 04, 2021 17:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "68": {
+        "title": "Airtel I-Code",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/airtel-i-code/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 03, 2021 03:30:00",
+            "end": "April 04, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "69": {
+        "title": "Nokia Software Engineer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/nokia-software-Engineer-hiring-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 09, 2021 05:30:00",
+            "end": "April 11, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "70": {
+        "title": "Hackathon 2021",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/rakathon-2021/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 09, 2021 07:30:00",
+            "end": "April 10, 2021 14:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "71": {
+        "title": "Animaker Python Developer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/animaker-python-developer-hiring-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 09, 2021 12:30:00",
+            "end": "April 18, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "72": {
+        "title": "Animaker React Developer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/animaker-react-developer-hiring-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 09, 2021 12:30:00",
+            "end": "April 18, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "73": {
+        "title": "Capillary Backend SSE Hiring Challenge - 2021",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/capillary-sse-hiring-challenge-2021/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 09, 2021 12:30:00",
+            "end": "April 18, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "74": {
+        "title": "EY GDS Hackpions 2.0",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/hackpions-2-ey-gds-hackathon/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 09, 2021 14:30:00",
+            "end": "April 25, 2021 18:29:00",
+            "zone": "-00:00"
+        }
+    },
+    "75": {
+        "title": "(Working Professionals) CTRL + HACK + DEL INEQUALITY",
+        "desc": "url: https://ctrl-hack-del-inequality.hackerearth.com/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 10, 2021 04:30:00",
+            "end": "April 25, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "76": {
+        "title": "Organic Food Supply Chain Hackathon",
+        "desc": "url: https://www.hackerearth.com/challenges/hackathon/nanban-foundation-organic-food-supply-chain-hackathon/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 10, 2021 18:30:00",
+            "end": "May 09, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "77": {
+        "title": "KreditBee Software Engineer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/kreditbee-software-engineer-hiring-challenge/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 16, 2021 12:30:00",
+            "end": "April 25, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "78": {
+        "title": "Styldod Fullstack Developer Hiring Challenge",
+        "desc": "url: https://www.hackerearth.com/challenges/hiring/styldod-fullstack-hiring-2021/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 16, 2021 12:30:00",
+            "end": "April 25, 2021 18:25:00",
+            "zone": "-00:00"
+        }
+    },
+    "79": {
+        "title": "Brute Force 4.0 - Cybersecurity",
+        "desc": "url: https://bruteforce4.hackerearth.com/",
+        "location": "hackerearth.com",
+        "time": {
+            "start": "April 17, 2021 12:30:00",
+            "end": "April 18, 2021 12:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "80": {
+        "title": "Code Jam Qualification Round",
+        "desc": "url: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "March 26, 2021 13:00:00",
+            "end": "March 27, 2021 19:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "81": {
+        "title": "Code Jam Round 1A",
+        "desc": "url: https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "April 10, 2021 01:00:00",
+            "end": "April 10, 2021 03:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "82": {
+        "title": "Kick Start Round B",
+        "desc": "url: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "April 18, 2021 23:00:00",
+            "end": "April 19, 2021 02:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "83": {
+        "title": "Hash Code World Finals",
+        "desc": "url: https://codingcompetitions.withgoogle.com/hashcode/round/0000000000436378",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "April 24, 2021 00:00:00",
+            "end": "April 25, 2021 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "84": {
+        "title": "Code Jam Round 1B",
+        "desc": "url: https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "April 25, 2021 16:00:00",
+            "end": "April 25, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "85": {
+        "title": "Code Jam Round 1C",
+        "desc": "url: https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "May 01, 2021 09:00:00",
+            "end": "May 01, 2021 11:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "86": {
+        "title": "Code Jam Round 2",
+        "desc": "url: https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "May 15, 2021 14:00:00",
+            "end": "May 15, 2021 16:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "87": {
+        "title": "Kick Start Round C",
+        "desc": "url: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435c44",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "May 23, 2021 11:00:00",
+            "end": "May 23, 2021 14:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "88": {
+        "title": "Code Jam Round 3",
+        "desc": "url: https://codingcompetitions.withgoogle.com/codejam/round/0000000000436142",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "June 05, 2021 14:00:00",
+            "end": "June 05, 2021 16:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "89": {
+        "title": "Kick Start Round D",
+        "desc": "url: https://codingcompetitions.withgoogle.com/kickstart/round/00000000004361e3",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "July 11, 2021 05:00:00",
+            "end": "July 11, 2021 08:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "90": {
+        "title": "Code Jam World Finals",
+        "desc": "url: https://codingcompetitions.withgoogle.com/codejam/round/0000000000436329",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "August 07, 2021 10:30:00",
+            "end": "August 07, 2021 14:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "91": {
+        "title": "Kick Start Round E",
+        "desc": "url: https://codingcompetitions.withgoogle.com/kickstart/round/000000000043585c",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "August 22, 2021 03:30:00",
+            "end": "August 22, 2021 06:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "92": {
+        "title": "Kick Start Round F",
+        "desc": "url: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435bae",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "September 18, 2021 17:00:00",
+            "end": "September 18, 2021 20:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "93": {
+        "title": "Kick Start Round G",
+        "desc": "url: https://codingcompetitions.withgoogle.com/kickstart/round/00000000004362d6",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "October 16, 2021 12:00:00",
+            "end": "October 16, 2021 15:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "94": {
+        "title": "Kick Start Registration Closes",
+        "desc": "url: https://codingcompetitions.withgoogle.com/",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "November 14, 2021 00:00:00",
+            "end": "November 15, 2021 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "95": {
+        "title": "Kick Start Round H",
+        "desc": "url: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435914",
+        "location": "codingcompetitions.withgoogle.com",
+        "time": {
+            "start": "November 14, 2021 03:00:00",
+            "end": "November 14, 2021 06:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "96": {
+        "title": "ACM CodeFest 2.0",
+        "desc": "url: https://www.codechef.com/CFES2021",
+        "location": "codechef.com",
+        "time": {
+            "start": "March 26, 2021 13:30:00",
+            "end": "March 26, 2021 15:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "97": {
+        "title": "Code Invicta",
+        "desc": "url: https://www.codechef.com/CINV2021",
+        "location": "codechef.com",
+        "time": {
+            "start": "March 26, 2021 15:30:00",
+            "end": "March 26, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "98": {
+        "title": "March Lunchtime 2021",
+        "desc": "url: https://www.codechef.com/LTIME94",
+        "location": "codechef.com",
+        "time": {
+            "start": "March 27, 2021 14:00:00",
+            "end": "March 27, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "99": {
+        "title": "March CodeChef Starters 2021 (Rated for Div 3)",
+        "desc": "url: https://www.codechef.com/START2",
+        "location": "codechef.com",
+        "time": {
+            "start": "March 28, 2021 10:30:00",
+            "end": "March 28, 2021 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "100": {
+        "title": "Shaastra Programming Contest Finals (Online Mirror)",
+        "desc": "url: https://www.codechef.com/SPCF2021",
+        "location": "codechef.com",
+        "time": {
+            "start": "March 28, 2021 14:30:00",
+            "end": "March 28, 2021 16:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "101": {
+        "title": "April Challenge 2021",
+        "desc": "url: https://www.codechef.com/APRIL21",
+        "location": "codechef.com",
+        "time": {
+            "start": "April 02, 2021 09:30:00",
+            "end": "April 12, 2021 09:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "102": {
+        "title": "April Cook-Off 2021",
+        "desc": "url: https://www.codechef.com/COOK128",
+        "location": "codechef.com",
+        "time": {
+            "start": "April 18, 2021 16:00:00",
+            "end": "April 18, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "103": {
+        "title": "April Lunchtime 2021",
+        "desc": "url: https://www.codechef.com/LTIME95",
+        "location": "codechef.com",
+        "time": {
+            "start": "April 24, 2021 14:00:00",
+            "end": "April 24, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "104": {
+        "title": "April CodeChef Starters 2021",
+        "desc": "url: https://www.codechef.com/START3",
+        "location": "codechef.com",
+        "time": {
+            "start": "April 25, 2021 10:30:00",
+            "end": "April 25, 2021 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "105": {
+        "title": "May Challenge 2021",
+        "desc": "url: https://www.codechef.com/MAY21",
+        "location": "codechef.com",
+        "time": {
+            "start": "May 07, 2021 09:30:00",
+            "end": "May 17, 2021 09:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "106": {
+        "title": "May Cook-Off 2021",
+        "desc": "url: https://www.codechef.com/COOK129",
+        "location": "codechef.com",
+        "time": {
+            "start": "May 23, 2021 16:00:00",
+            "end": "May 23, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "107": {
+        "title": "May Lunchtime 2021",
+        "desc": "url: https://www.codechef.com/LTIME96",
+        "location": "codechef.com",
+        "time": {
+            "start": "May 29, 2021 14:00:00",
+            "end": "May 29, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "108": {
+        "title": "May CodeChef Starters 2021",
+        "desc": "url: https://www.codechef.com/START4",
+        "location": "codechef.com",
+        "time": {
+            "start": "May 30, 2021 10:30:00",
+            "end": "May 30, 2021 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "109": {
+        "title": "June Challenge 2021",
+        "desc": "url: https://www.codechef.com/JUNE21",
+        "location": "codechef.com",
+        "time": {
+            "start": "June 04, 2021 09:30:00",
+            "end": "June 14, 2021 09:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "110": {
+        "title": "June Cook-Off 2021",
+        "desc": "url: https://www.codechef.com/COOK130",
+        "location": "codechef.com",
+        "time": {
+            "start": "June 20, 2021 16:00:00",
+            "end": "June 20, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "111": {
+        "title": "June Lunchtime 2021",
+        "desc": "url: https://www.codechef.com/LTIME97",
+        "location": "codechef.com",
+        "time": {
+            "start": "June 26, 2021 14:00:00",
+            "end": "June 26, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "112": {
+        "title": "June CodeChef Starters 2021",
+        "desc": "url: https://www.codechef.com/START5",
+        "location": "codechef.com",
+        "time": {
+            "start": "June 27, 2021 10:30:00",
+            "end": "June 27, 2021 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "113": {
+        "title": "July Challenge 2021",
+        "desc": "url: https://www.codechef.com/JULY21",
+        "location": "codechef.com",
+        "time": {
+            "start": "July 02, 2021 09:30:00",
+            "end": "July 12, 2021 09:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "114": {
+        "title": "July Cook-Off 2021",
+        "desc": "url: https://www.codechef.com/COOK131",
+        "location": "codechef.com",
+        "time": {
+            "start": "July 18, 2021 16:00:00",
+            "end": "July 18, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "115": {
+        "title": "July CodeChef Starters 2021",
+        "desc": "url: https://www.codechef.com/START6",
+        "location": "codechef.com",
+        "time": {
+            "start": "July 25, 2021 10:30:00",
+            "end": "July 25, 2021 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "116": {
+        "title": "July Lunchtime 2021",
+        "desc": "url: https://www.codechef.com/LTIME98",
+        "location": "codechef.com",
+        "time": {
+            "start": "July 31, 2021 14:00:00",
+            "end": "July 31, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "117": {
+        "title": "August Challenge 2021",
+        "desc": "url: https://www.codechef.com/AUG21",
+        "location": "codechef.com",
+        "time": {
+            "start": "August 06, 2021 09:30:00",
+            "end": "August 16, 2021 09:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "118": {
+        "title": "August Cook-Off 2021",
+        "desc": "url: https://www.codechef.com/COOK132",
+        "location": "codechef.com",
+        "time": {
+            "start": "August 22, 2021 16:00:00",
+            "end": "August 22, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "119": {
+        "title": "August Lunchtime 2021",
+        "desc": "url: https://www.codechef.com/LTIME99",
+        "location": "codechef.com",
+        "time": {
+            "start": "August 28, 2021 14:00:00",
+            "end": "August 28, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "120": {
+        "title": "August CodeChef Starters 2021",
+        "desc": "url: https://www.codechef.com/START7",
+        "location": "codechef.com",
+        "time": {
+            "start": "August 29, 2021 10:30:00",
+            "end": "August 29, 2021 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "121": {
+        "title": "September Challenge 2021",
+        "desc": "url: https://www.codechef.com/SEPT21",
+        "location": "codechef.com",
+        "time": {
+            "start": "September 03, 2021 09:30:00",
+            "end": "September 13, 2021 09:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "122": {
+        "title": "September Cook-Off 2021",
+        "desc": "url: https://www.codechef.com/COOK133",
+        "location": "codechef.com",
+        "time": {
+            "start": "September 19, 2021 16:00:00",
+            "end": "September 19, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "123": {
+        "title": "September Lunchtime 2021",
+        "desc": "url: https://www.codechef.com/LTIME100",
+        "location": "codechef.com",
+        "time": {
+            "start": "September 25, 2021 14:00:00",
+            "end": "September 25, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "124": {
+        "title": "September CodeChef Starters 2021",
+        "desc": "url: https://www.codechef.com/START8",
+        "location": "codechef.com",
+        "time": {
+            "start": "September 26, 2021 10:30:00",
+            "end": "September 26, 2021 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "125": {
+        "title": "October Challenge 2021",
+        "desc": "url: https://www.codechef.com/OCT21",
+        "location": "codechef.com",
+        "time": {
+            "start": "October 01, 2021 09:30:00",
+            "end": "October 11, 2021 09:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "126": {
+        "title": "October Cook-Off 2021",
+        "desc": "url: https://www.codechef.com/COOK134",
+        "location": "codechef.com",
+        "time": {
+            "start": "October 24, 2021 16:00:00",
+            "end": "October 24, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "127": {
+        "title": "October Lunchtime 2021",
+        "desc": "url: https://www.codechef.com/LTIME101",
+        "location": "codechef.com",
+        "time": {
+            "start": "October 30, 2021 14:00:00",
+            "end": "October 30, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "128": {
+        "title": "October CodeChef Starters 2021",
+        "desc": "url: https://www.codechef.com/START9",
+        "location": "codechef.com",
+        "time": {
+            "start": "October 31, 2021 10:30:00",
+            "end": "October 31, 2021 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "129": {
+        "title": "November Challenge 2021",
+        "desc": "url: https://www.codechef.com/NOV21",
+        "location": "codechef.com",
+        "time": {
+            "start": "November 05, 2021 09:30:00",
+            "end": "November 15, 2021 09:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "130": {
+        "title": "November Cook-Off 2021",
+        "desc": "url: https://www.codechef.com/COOK135",
+        "location": "codechef.com",
+        "time": {
+            "start": "November 21, 2021 16:00:00",
+            "end": "November 21, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "131": {
+        "title": "November Lunchtime 2021",
+        "desc": "url: https://www.codechef.com/LTIME102",
+        "location": "codechef.com",
+        "time": {
+            "start": "November 27, 2021 14:00:00",
+            "end": "November 27, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "132": {
+        "title": "November CodeChef Starters 2021",
+        "desc": "url: https://www.codechef.com/START10",
+        "location": "codechef.com",
+        "time": {
+            "start": "November 28, 2021 10:30:00",
+            "end": "November 28, 2021 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "133": {
+        "title": "December Challenge 2021",
+        "desc": "url: https://www.codechef.com/DEC21",
+        "location": "codechef.com",
+        "time": {
+            "start": "December 03, 2021 09:30:00",
+            "end": "December 13, 2021 09:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "134": {
+        "title": "December Cook-Off 2021",
+        "desc": "url: https://www.codechef.com/COOK136",
+        "location": "codechef.com",
+        "time": {
+            "start": "December 19, 2021 16:00:00",
+            "end": "December 19, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "135": {
+        "title": "December Lunchtime 2021",
+        "desc": "url: https://www.codechef.com/LTIME103",
+        "location": "codechef.com",
+        "time": {
+            "start": "December 25, 2021 14:00:00",
+            "end": "December 25, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "136": {
+        "title": "December CodeChef Starters 2021",
+        "desc": "url: https://www.codechef.com/START11",
+        "location": "codechef.com",
+        "time": {
+            "start": "December 26, 2021 10:30:00",
+            "end": "December 26, 2021 13:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "137": {
+        "title": "CS166 x FSAB CTF 2021",
+        "desc": "url: https://ctftime.org/event/1311/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "March 27, 2021 00:00:00",
+            "end": "March 28, 2021 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "138": {
+        "title": "VolgaCTF 2021 Qualifier",
+        "desc": "url: https://ctftime.org/event/1229/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "March 27, 2021 14:00:00",
+            "end": "March 28, 2021 14:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "139": {
+        "title": "UMassCTF",
+        "desc": "url: https://ctftime.org/event/1282/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "March 27, 2021 22:00:00",
+            "end": "March 29, 2021 22:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "140": {
+        "title": "ALLES! CTF 2021 HW Edition",
+        "desc": "url: https://ctftime.org/event/1260/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 01, 2021 15:00:00",
+            "end": "April 01, 2021 23:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "141": {
+        "title": "\u00e5ngstromCTF 2021",
+        "desc": "url: https://ctftime.org/event/1265/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 03, 2021 00:00:00",
+            "end": "April 07, 2021 11:59:59",
+            "zone": "-00:00"
+        }
+    },
+    "142": {
+        "title": "Shakti CTF",
+        "desc": "url: https://ctftime.org/event/1251/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 03, 2021 06:30:00",
+            "end": "April 04, 2021 18:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "143": {
+        "title": "JUST CTF Finals 2021",
+        "desc": "url: https://ctftime.org/event/1270/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 03, 2021 12:12:12",
+            "end": "April 06, 2021 12:12:12",
+            "zone": "-00:00"
+        }
+    },
+    "144": {
+        "title": "b01lers CTF",
+        "desc": "url: https://ctftime.org/event/1259/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 03, 2021 22:00:00",
+            "end": "April 05, 2021 22:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "145": {
+        "title": "BSides Canberra 2021 CTF",
+        "desc": "url: https://ctftime.org/event/1314/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 09, 2021 00:00:00",
+            "end": "April 10, 2021 05:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "146": {
+        "title": "RITSEC CTF 2021",
+        "desc": "url: https://ctftime.org/event/1309/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 09, 2021 16:00:00",
+            "end": "April 11, 2021 16:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "147": {
+        "title": "Midnight Sun CTF 2021 Quals",
+        "desc": "url: https://ctftime.org/event/1139/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 09, 2021 17:00:00",
+            "end": "April 10, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "148": {
+        "title": "HackPack CTF 2021",
+        "desc": "url: https://ctftime.org/event/1302/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 16, 2021 14:00:00",
+            "end": "April 16, 2021 22:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "149": {
+        "title": "HackPack CTF 2021",
+        "desc": "url: https://ctftime.org/event/1307/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 16, 2021 15:00:00",
+            "end": "April 17, 2021 15:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "150": {
+        "title": "Incognito 2.0",
+        "desc": "url: https://ctftime.org/event/1321/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 16, 2021 18:30:00",
+            "end": "April 18, 2021 12:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "151": {
+        "title": "UMDCTF 2021",
+        "desc": "url: https://ctftime.org/event/1288/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 16, 2021 21:00:00",
+            "end": "April 18, 2021 21:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "152": {
+        "title": "PlaidCTF 2021",
+        "desc": "url: https://ctftime.org/event/1199/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 16, 2021 21:00:00",
+            "end": "April 18, 2021 21:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "153": {
+        "title": "Bambi CTF #5",
+        "desc": "url: https://ctftime.org/event/1253/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 17, 2021 10:00:00",
+            "end": "April 17, 2021 16:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "154": {
+        "title": "Cyber Apocalypse 2021",
+        "desc": "url: https://ctftime.org/event/1304/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 19, 2021 12:00:00",
+            "end": "April 23, 2021 18:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "155": {
+        "title": "TAMUctf 2021",
+        "desc": "url: https://ctftime.org/event/1320/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 22, 2021 23:00:00",
+            "end": "April 25, 2021 23:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "156": {
+        "title": "HeroCTF v3",
+        "desc": "url: https://ctftime.org/event/1284/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 23, 2021 20:00:00",
+            "end": "April 25, 2021 22:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "157": {
+        "title": "WPICTF 2021",
+        "desc": "url: https://ctftime.org/event/1208/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "April 23, 2021 22:00:00",
+            "end": "April 25, 2021 22:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "158": {
+        "title": "DEF CON CTF Qualifier 2021",
+        "desc": "url: https://ctftime.org/event/1254/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "May 01, 2021 00:00:00",
+            "end": "May 03, 2021 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "159": {
+        "title": "DawgCTF 2021",
+        "desc": "url: https://ctftime.org/event/1319/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "May 07, 2021 22:00:00",
+            "end": "May 08, 2021 22:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "160": {
+        "title": "San Diego CTF 2021",
+        "desc": "url: https://ctftime.org/event/1255/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "May 08, 2021 00:00:00",
+            "end": "May 10, 2021 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "161": {
+        "title": "saarCTF 2021",
+        "desc": "url: https://ctftime.org/event/1252/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "May 08, 2021 13:00:00",
+            "end": "May 08, 2021 22:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "162": {
+        "title": "3kCTF-2021",
+        "desc": "url: https://ctftime.org/event/1317/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "May 15, 2021 11:00:00",
+            "end": "May 16, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "163": {
+        "title": "NorzhCTF 2021",
+        "desc": "url: https://ctftime.org/event/1301/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "May 21, 2021 18:00:10",
+            "end": "May 23, 2021 18:00:10",
+            "zone": "-00:00"
+        }
+    },
+    "164": {
+        "title": "HSCTF 8",
+        "desc": "url: https://ctftime.org/event/1264/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "May 24, 2021 12:00:00",
+            "end": "May 29, 2021 00:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "165": {
+        "title": "Pwn2Win CTF 2021",
+        "desc": "url: https://ctftime.org/event/1186/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "May 28, 2021 16:37:00",
+            "end": "May 30, 2021 16:37:00",
+            "zone": "-00:00"
+        }
+    },
+    "166": {
+        "title": "Zh3r0 CTF V2",
+        "desc": "url: https://ctftime.org/event/1285/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "June 04, 2021 10:30:00",
+            "end": "June 06, 2021 10:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "167": {
+        "title": "FAUST CTF 2021",
+        "desc": "url: https://ctftime.org/event/1292/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "June 12, 2021 13:00:00",
+            "end": "June 12, 2021 22:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "168": {
+        "title": "Midnight Sun CTF 2021 Finals",
+        "desc": "url: https://ctftime.org/event/1268/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "June 18, 2021 11:00:00",
+            "end": "June 19, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "169": {
+        "title": "WeCTF 2021",
+        "desc": "url: https://ctftime.org/event/1231/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "June 19, 2021 17:00:00",
+            "end": "June 20, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "170": {
+        "title": "RuCTF 2021",
+        "desc": "url: https://ctftime.org/event/1297/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "June 20, 2021 10:00:00",
+            "end": "June 20, 2021 19:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "171": {
+        "title": "Google Capture The Flag 2021",
+        "desc": "url: https://ctftime.org/event/1318/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "July 17, 2021 00:00:00",
+            "end": "July 18, 2021 23:59:00",
+            "zone": "-00:00"
+        }
+    },
+    "172": {
+        "title": "CyBRICS CTF 2021",
+        "desc": "url: https://ctftime.org/event/1306/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "July 24, 2021 10:00:00",
+            "end": "July 25, 2021 10:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "173": {
+        "title": "Crypto CTF 2021",
+        "desc": "url: https://ctftime.org/event/1258/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "July 30, 2021 16:00:00",
+            "end": "July 31, 2021 16:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "174": {
+        "title": "ALLES! CTF 2021",
+        "desc": "url: https://ctftime.org/event/1313/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "September 03, 2021 16:00:00",
+            "end": "September 05, 2021 16:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "175": {
+        "title": "CSAW CTF Qualification Round 2021",
+        "desc": "url: https://ctftime.org/event/1315/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "September 10, 2021 20:00:00",
+            "end": "September 12, 2021 20:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "176": {
+        "title": "DownUnderCTF",
+        "desc": "url: https://ctftime.org/event/1312/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "September 24, 2021 09:00:00",
+            "end": "September 26, 2021 09:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "177": {
+        "title": "CSAW CTF Final Round 2021",
+        "desc": "url: https://ctftime.org/event/1316/",
+        "location": "ctftime.org",
+        "time": {
+            "start": "November 12, 2021 19:00:00",
+            "end": "November 14, 2021 14:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "178": {
+        "title": "UTPC 2020",
+        "desc": "url: https://atcoder.jp/contests/utpc2020",
+        "location": "atcoder.jp?lang=ja",
+        "time": {
+            "start": "March 27, 2021 04:00:00",
+            "end": "March 27, 2021 09:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "179": {
+        "title": "AtCoder Beginner Contest 197\uff08Sponsored by Panasonic\uff09",
+        "desc": "url: https://atcoder.jp/contests/abc197",
+        "location": "atcoder.jp",
+        "time": {
+            "start": "March 27, 2021 12:00:00",
+            "end": "March 27, 2021 13:40:00",
+            "zone": "-00:00"
+        }
+    },
+    "180": {
+        "title": "AtCoder Regular Contest 116",
+        "desc": "url: https://atcoder.jp/contests/arc116",
+        "location": "atcoder.jp",
+        "time": {
+            "start": "March 28, 2021 12:00:00",
+            "end": "March 28, 2021 14:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "181": {
+        "title": "The Great Code Off 2021",
+        "desc": "url: https://app.codility.com/programmers/challenges/great_code_off2021/",
+        "location": "codility.com",
+        "time": {
+            "start": "March 27, 2021 17:00:00",
+            "end": "March 27, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "182": {
+        "title": "Weekly Contest 52",
+        "desc": "url: https://binarysearch.com/room/Weekly-Contest-52-thSuk7cYb6",
+        "location": "binarysearch.com",
+        "time": {
+            "start": "March 27, 2021 17:00:00",
+            "end": "March 27, 2021 18:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "183": {
+        "title": "Weekly Contest 234",
+        "desc": "url: https://leetcode.com/contest/weekly-contest-234",
+        "location": "leetcode.com",
+        "time": {
+            "start": "March 28, 2021 02:30:00",
+            "end": "March 28, 2021 04:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "184": {
+        "title": "Biweekly Contest 49",
+        "desc": "url: https://leetcode.com/contest/biweekly-contest-49",
+        "location": "leetcode.com",
+        "time": {
+            "start": "April 03, 2021 14:30:00",
+            "end": "April 03, 2021 16:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "185": {
+        "title": "Problem 753",
+        "desc": "url: https://projecteuler.net/news",
+        "location": "projecteuler.net",
+        "time": {
+            "start": "March 28, 2021 04:00:00",
+            "end": "March 28, 2021 04:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "186": {
+        "title": "Problem 754",
+        "desc": "url: https://projecteuler.net/news",
+        "location": "projecteuler.net",
+        "time": {
+            "start": "April 04, 2021 07:00:00",
+            "end": "April 04, 2021 07:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "187": {
+        "title": "Problem 755",
+        "desc": "url: https://projecteuler.net/news",
+        "location": "projecteuler.net",
+        "time": {
+            "start": "April 18, 2021 10:00:00",
+            "end": "April 18, 2021 10:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "188": {
+        "title": "Problem 756",
+        "desc": "url: https://projecteuler.net/news",
+        "location": "projecteuler.net",
+        "time": {
+            "start": "May 01, 2021 13:00:00",
+            "end": "May 01, 2021 13:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "189": {
+        "title": "Problem 757",
+        "desc": "url: https://projecteuler.net/news",
+        "location": "projecteuler.net",
+        "time": {
+            "start": "May 15, 2021 16:00:00",
+            "end": "May 15, 2021 16:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "190": {
+        "title": "Problem 758",
+        "desc": "url: https://projecteuler.net/news",
+        "location": "projecteuler.net",
+        "time": {
+            "start": "May 29, 2021 19:00:00",
+            "end": "May 29, 2021 19:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "191": {
+        "title": "Problem 759",
+        "desc": "url: https://projecteuler.net/news",
+        "location": "projecteuler.net",
+        "time": {
+            "start": "June 12, 2021 22:00:00",
+            "end": "June 12, 2021 22:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "192": {
+        "title": "Problem 760",
+        "desc": "url: https://projecteuler.net/news",
+        "location": "projecteuler.net",
+        "time": {
+            "start": "June 27, 2021 01:00:00",
+            "end": "June 27, 2021 01:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "193": {
+        "title": "Problem 761",
+        "desc": "url: https://projecteuler.net/news",
+        "location": "projecteuler.net",
+        "time": {
+            "start": "July 11, 2021 04:00:00",
+            "end": "July 11, 2021 04:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "194": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "March 28, 2021 05:00:00",
+            "end": "March 28, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "195": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "April 04, 2021 05:00:00",
+            "end": "April 04, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "196": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "April 04, 2021 06:00:00",
+            "end": "April 04, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "197": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "April 11, 2021 05:00:00",
+            "end": "April 11, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "198": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "April 11, 2021 06:00:00",
+            "end": "April 11, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "199": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "April 18, 2021 05:00:00",
+            "end": "April 18, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "200": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "April 18, 2021 06:00:00",
+            "end": "April 18, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "201": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "April 25, 2021 06:00:00",
+            "end": "April 25, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "202": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "April 25, 2021 06:00:00",
+            "end": "April 25, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "203": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "May 02, 2021 06:00:00",
+            "end": "May 02, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "204": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "May 02, 2021 06:00:00",
+            "end": "May 02, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "205": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "May 09, 2021 06:00:00",
+            "end": "May 09, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "206": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "May 09, 2021 06:00:00",
+            "end": "May 09, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "207": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "May 16, 2021 06:00:00",
+            "end": "May 16, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "208": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "May 16, 2021 06:00:00",
+            "end": "May 16, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "209": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "May 23, 2021 06:00:00",
+            "end": "May 23, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "210": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "May 23, 2021 06:00:00",
+            "end": "May 23, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "211": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "May 30, 2021 06:00:00",
+            "end": "May 30, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "212": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "May 30, 2021 06:00:00",
+            "end": "May 30, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "213": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "June 06, 2021 06:00:00",
+            "end": "June 06, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "214": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "June 06, 2021 06:00:00",
+            "end": "June 06, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "215": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "June 13, 2021 06:00:00",
+            "end": "June 13, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "216": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "June 13, 2021 06:00:00",
+            "end": "June 13, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "217": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "June 20, 2021 06:00:00",
+            "end": "June 20, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "218": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043b\u0438\u0447. 2020-2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "June 20, 2021 06:00:00",
+            "end": "June 20, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "219": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "June 27, 2021 06:00:00",
+            "end": "June 27, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "220": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "July 04, 2021 06:00:00",
+            "end": "July 04, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "221": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "July 11, 2021 06:00:00",
+            "end": "July 11, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "222": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "July 18, 2021 06:00:00",
+            "end": "July 18, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "223": {
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044b (\u043a\u043e\u043c. 2021)",
+        "desc": "url: http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+        "location": "dl.gsu.by",
+        "time": {
+            "start": "July 25, 2021 06:00:00",
+            "end": "July 25, 2021 11:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "224": {
+        "title": "\u041f\u044f\u0442\u0430\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u0430\u044f \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u0430",
+        "desc": "url: https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=41990",
+        "location": "acmp.ru",
+        "time": {
+            "start": "March 28, 2021 08:00:00",
+            "end": "March 28, 2021 13:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "225": {
+        "title": "CodeCraft-21 and Codeforces Round #711 (Div. 2)",
+        "desc": "url: http://codeforces.com/contests/1498",
+        "location": "codeforces.com",
+        "time": {
+            "start": "March 29, 2021 14:35:00",
+            "end": "March 29, 2021 16:35:00",
+            "zone": "-00:00"
+        }
+    },
+    "226": {
+        "title": "April Fools Day Contest 2021",
+        "desc": "url: http://codeforces.com/contests/1505",
+        "location": "codeforces.com",
+        "time": {
+            "start": "April 01, 2021 14:35:00",
+            "end": "April 01, 2021 16:35:00",
+            "zone": "-00:00"
+        }
+    },
+    "227": {
+        "title": "Codeforces Round #712 (Div. 2)",
+        "desc": "url: http://codeforces.com/contests/1504",
+        "location": "codeforces.com",
+        "time": {
+            "start": "April 03, 2021 14:35:00",
+            "end": "April 03, 2021 16:35:00",
+            "zone": "-00:00"
+        }
+    },
+    "228": {
+        "title": "Codeforces Round #712 (Div. 1)",
+        "desc": "url: http://codeforces.com/contests/1503",
+        "location": "codeforces.com",
+        "time": {
+            "start": "April 03, 2021 14:35:00",
+            "end": "April 03, 2021 16:35:00",
+            "zone": "-00:00"
+        }
+    },
+    "229": {
+        "title": "SRM 803",
+        "desc": "url: https://topcoder.com/community/events/",
+        "location": "topcoder.com",
+        "time": {
+            "start": "March 31, 2021 15:00:00",
+            "end": "March 31, 2021 17:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "230": {
+        "title": "TCO21 Algorithm Round 1A",
+        "desc": "url: https://topcoder.com/community/events/",
+        "location": "topcoder.com",
+        "time": {
+            "start": "April 17, 2021 16:00:00",
+            "end": "April 17, 2021 18:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "231": {
+        "title": "TCO21 Algorithm Round 1B",
+        "desc": "url: https://topcoder.com/community/events/",
+        "location": "topcoder.com",
+        "time": {
+            "start": "April 28, 2021 11:00:00",
+            "end": "April 28, 2021 13:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "232": {
+        "title": "TCO21 Algorithm Round 2A",
+        "desc": "url: https://topcoder.com/community/events/",
+        "location": "topcoder.com",
+        "time": {
+            "start": "May 22, 2021 16:00:00",
+            "end": "May 22, 2021 18:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "233": {
+        "title": "TCO21 Algorithm Round 2B",
+        "desc": "url: https://topcoder.com/community/events/",
+        "location": "topcoder.com",
+        "time": {
+            "start": "June 02, 2021 11:00:00",
+            "end": "June 02, 2021 13:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "234": {
+        "title": "TCO21 Algorithm Round 3",
+        "desc": "url: https://topcoder.com/community/events/",
+        "location": "topcoder.com",
+        "time": {
+            "start": "July 08, 2021 11:00:00",
+            "end": "July 08, 2021 13:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "235": {
+        "title": "TCO21 Algorithm Round 4",
+        "desc": "url: https://topcoder.com/community/events/",
+        "location": "topcoder.com",
+        "time": {
+            "start": "July 31, 2021 16:00:00",
+            "end": "July 31, 2021 18:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "236": {
+        "title": "World Tour Contest",
+        "desc": "url: https://www.dmoj.ca/contest/worldtour",
+        "location": "dmoj.ca",
+        "time": {
+            "start": "April 01, 2021 04:00:00",
+            "end": "April 08, 2021 04:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "237": {
+        "title": "Another Contest 6",
+        "desc": "url: https://www.dmoj.ca/contest/acc6",
+        "location": "dmoj.ca",
+        "time": {
+            "start": "April 01, 2021 04:00:00",
+            "end": "April 02, 2021 04:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "238": {
+        "title": "Another Contest 7",
+        "desc": "url: https://www.dmoj.ca/contest/acc7",
+        "location": "dmoj.ca",
+        "time": {
+            "start": "April 03, 2021 04:00:00",
+            "end": "April 05, 2021 04:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "239": {
+        "title": "US Open",
+        "desc": "url: http://usaco.org/",
+        "location": "usaco.org",
+        "time": {
+            "start": "April 02, 2021 12:00:00",
+            "end": "April 06, 2021 16:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "240": {
+        "title": "IOI 2021 in Singapore",
+        "desc": "url: http://usaco.org/",
+        "location": "usaco.org",
+        "time": {
+            "start": "June 20, 2021 12:00:00",
+            "end": "June 28, 2021 16:00:00",
+            "zone": "-00:00"
+        }
+    },
+    "241": {
+        "title": "Criterion 2021 Round 12",
+        "desc": "url: https://toph.co/c/criterion-2021-round-12",
+        "location": "toph.co",
+        "time": {
+            "start": "April 09, 2021 10:00:00",
+            "end": "April 09, 2021 12:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "242": {
+        "title": "Criterion 2021 Round 13",
+        "desc": "url: https://toph.co/c/criterion-2021-round-13",
+        "location": "toph.co",
+        "time": {
+            "start": "April 30, 2021 10:00:00",
+            "end": "April 30, 2021 12:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "243": {
+        "title": "Criterion 2021 Round 14",
+        "desc": "url: https://toph.co/c/criterion-2021-round-14",
+        "location": "toph.co",
+        "time": {
+            "start": "May 21, 2021 10:00:00",
+            "end": "May 21, 2021 12:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "244": {
+        "title": "Criterion 2021 Round 15",
+        "desc": "url: https://toph.co/c/criterion-2021-round-15",
+        "location": "toph.co",
+        "time": {
+            "start": "June 11, 2021 10:00:00",
+            "end": "June 11, 2021 12:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "245": {
+        "title": "Investment. SUSTAINABLE Investment Challenge",
+        "desc": "url: https://challenges.reply.com/tamtamy/challenge/60/detail",
+        "location": "challenges.reply.com",
+        "time": {
+            "start": "April 19, 2021 13:30:00",
+            "end": "April 30, 2021 20:30:00",
+            "zone": "-00:00"
+        }
+    },
+    "246": {
+        "title": "Spring Challenge 2021",
+        "desc": "url: https://www.codingame.com/contests/spring-challenge-2021",
+        "location": "codingame.com",
+        "time": {
+            "start": "May 06, 2021 14:00:00",
+            "end": "May 17, 2021 14:00:00",
+            "zone": "-00:00"
+        }
+    }
+}
